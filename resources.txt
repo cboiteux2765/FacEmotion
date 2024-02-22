@@ -1,0 +1,3 @@
+PyTorch docs: https://pytorch.org/docs/stable/
+Hugging Face Pretrained Models: https://huggingface.co/transformers/v3.3.1/pretrained_models.html
+Guide to using PyTorch and CNNs: https://www.mygreatlearning.com/blog/computer-vision-using-pytorch/
