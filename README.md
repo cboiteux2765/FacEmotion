@@ -1,2 +1,2 @@
 # FacEmotion
-CV and ML to detect the emotion of people based on facial expressions
+Detecting the emotions from facial expressions to find solutions and products to complement their mood
