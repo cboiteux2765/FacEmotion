@@ -1,3 +1,5 @@
 PyTorch docs: https://pytorch.org/docs/stable/
 Hugging Face Pretrained Models: https://huggingface.co/transformers/v3.3.1/pretrained_models.html
 Guide to using PyTorch and CNNs: https://www.mygreatlearning.com/blog/computer-vision-using-pytorch/
+https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+https://www.reddit.com/r/learnmachinelearning/comments/a63ukk/how_do_you_split_your_image_dataset_into_train/
