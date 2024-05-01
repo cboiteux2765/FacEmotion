@@ -7,7 +7,7 @@ import pandas as pd
 from camera_input_live import camera_input_live
 st.title("FacEmotion")
 
-genai.configure(api_key="AIzaSyCwxxyZ-STyGrdLfGSSc1eqGF7vn4RVJ5A")
+genai.configure(api_key="API_KEY")
 
 #Default configuration for model
 generation_config = {
